@@ -11,7 +11,7 @@ So Typora is compatible with those silly font requirements.
 
 | Theme                        | CSS file           |
 | ---------------------------- | ------------------ |
-| Newsprint in Times New Roman | `timesprint.css`   |
+| Newsprint in Times           | `timesprint.css`   |
 | GitHub in Arial              | `github-arial.css` |
 | Whitey in Times              | `whitey-times.css` |
 
